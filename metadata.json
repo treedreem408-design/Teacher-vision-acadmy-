@@ -1,0 +1,6 @@
+{
+  "name": "Teacher Vision Academy",
+  "description": "EdTech platform for Teacher Vision Academy featuring UGC NET, B.Ed, MA, BA, Punjab Govt Exams preparation, anti-piracy secure study materials, interactive quizzes, live classes, and multi-language learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
